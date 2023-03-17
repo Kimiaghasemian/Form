@@ -1,0 +1,6 @@
+.checkbox {
+  margin: 10px 40px;
+}
+.checkbox label {
+  font-size: var(--font-size-body);
+}

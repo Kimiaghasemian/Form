@@ -1,0 +1,20 @@
+.input{
+    display: block;
+    width: 900px;
+    margin-left: 20px ;
+    font-size:20px;
+    padding: 20px;
+}
+.input input{
+    display: block;
+    width: 90%;
+    font-size: 15px;
+    margin-top: 5px;
+    border: 2px solid rgb(189, 33, 85) ;
+    border-radius: 5px;
+    padding: 10px;
+ 
+}
+.input label{
+    color: rgb(51, 36, 36);
+}
